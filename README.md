@@ -5,7 +5,7 @@
 
 1.  Применение принципа **DRY**.
 
-    projects-list\_\_item1, 2 и 3 заменен на projects-list\_\_item
+    -    projects-list\_\_item1, 2 и 3 заменен на projects-list\_\_item
 
 2.  Применение принципа **KISS**.
 
